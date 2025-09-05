@@ -5,3 +5,5 @@
 -<b>Configuring Secure VPN Connections on Virtual Machines</b>
 
 [VPN Setup and Installation](https://github.com/CarlosKako) 
+
+[osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
