@@ -6,4 +6,4 @@
 
 [VPN Setup and Installation](https://github.com/CarlosKako) 
 
-[osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+[osTicket: Prerequisites and Installation](https://github.com/CarlosKako//VPN-Setup-Installation)
