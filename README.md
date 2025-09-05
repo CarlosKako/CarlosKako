@@ -5,3 +5,4 @@
 -<b>Configuring Secure VPN Connections on Virtual Machines</b>
 
 * [VPN: Setup and Installation](https://github.com/CarlosKako//VPN-Setup-Installation)
+* [VPN: Verification] (https://github.com/CarlosKako/VPN-Verification) 
