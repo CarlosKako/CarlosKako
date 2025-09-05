@@ -4,4 +4,4 @@
 
 -<b>Configuring Secure VPN Connections on Virtual Machines</b>
 
-(https://github.com/CarlosKako/ VPN Setup and Installation
+VPN Setup and Installation
