@@ -10,4 +10,4 @@
 
 -<b>osTicket (Help Desk Ticketing System)</b>
 
-* [osTicket: Prerequisites and Installation](https://github.com/CarlosKako//)
+* [osTicket: Prerequisites and Installation](https://github.com/CarlosKako//osticket-prereqs)
