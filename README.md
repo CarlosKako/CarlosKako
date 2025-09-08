@@ -11,3 +11,4 @@
 -<b>osTicket (Help Desk Ticketing System)</b>
 
 * [osTicket: Prerequisites and Installation](https://github.com/CarlosKako//osticket-prereqs)
+* [osTicket: Configuring osTicket](https://github.com/CarlosKako//osticket-config)
