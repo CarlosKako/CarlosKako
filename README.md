@@ -12,3 +12,4 @@
 
 * [osTicket: Prerequisites and Installation](https://github.com/CarlosKako//osticket-prereqs)
 * [osTicket: Configuring osTicket](https://github.com/CarlosKako//osticket-config)
+* [osTicket: Ticket Creation, Assignment, and Resolution Lifecycle](https://github.com/CarlosKako//osticket-lifecycle)
