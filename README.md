@@ -13,3 +13,8 @@
 * [osTicket: Prerequisites and Installation](https://github.com/CarlosKako//osticket-prereqs)
 * [osTicket: Configuring osTicket](https://github.com/CarlosKako//osticket-config)
 * [osTicket: Ticket Creation, Assignment, and Resolution Lifecycle](https://github.com/CarlosKako//osticket-lifecycle)
+
+
+-<b>Active Directory within Microsoft Azure</b>
+
+*[Setting up a Domain Controller and Client in Azure](https://github.com/CarlosKako//Setup-DomainController-Azure)
