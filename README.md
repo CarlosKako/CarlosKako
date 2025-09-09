@@ -20,3 +20,4 @@
 * [Setting up a Domain Controller and Client in Azure](https://github.com/CarlosKako//Setup-DomainController-Azure)
 * [Active Directory Setup & Domain Join](https://github.com/CarlosKako//setup-domain-join)
 * [Setup Remote Desktop for Non-Administrative Users](https://github.com/CarlosKako//Non-Administrative-users)
+* [Configuring Account Lockout Policy in Active Directory](https://github.com/CarlosKako//Account-lockout-policy)
